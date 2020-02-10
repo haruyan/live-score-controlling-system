@@ -1,0 +1,48 @@
+.dataTables_filter, .dataTables_paginate {
+    float: right !important;
+}
+
+.dataTables_length {
+    float:left;
+    white-space:nowrap;;
+}
+
+.card-pricing .card-icon i {
+    font-size: 55px;
+    border: 1px solid #e91e63;
+    border-radius: 50%;
+    width: 130px;
+    line-height: 130px;
+    height: 130px;
+    color: #e91e63;
+}
+
+.helper-card-icon-right {
+    float: right !important;
+    margin-right: 0 !important;
+}
+
+.helper-card-text-left {
+    text-align: left !important;
+    color: #999 !important;
+}
+
+.helper-card-text-right {
+    text-align: right !important;
+    color: #999 !important;
+}
+
+.helper-card-text-bold-left {
+    text-align: left !important;
+    color: #3C4858 !important;
+}
+
+.card-pricing .card-title {
+    margin-top: 30px;
+}
+
+.navbar .navbar-nav .nav-item.active .nav-link, .navbar .navbar-nav .nav-item.active .nav-link:hover, .navbar .navbar-nav .nav-item.active .nav-link:focus {
+    color: inherit;
+    background-color: 
+    rgba(255, 255, 255, 0.25);
+}
